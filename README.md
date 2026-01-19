@@ -22,5 +22,8 @@
 |speed|Fast|
 |UI|design|
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50">
+</p>
 
 ![image alt](https://github.com/leonorspain15/leonorspain/blob/main/leo/image/leo.jpg?raw=true)
