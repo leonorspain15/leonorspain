@@ -56,6 +56,12 @@ cd directory
 npm install
 npm start
 ```
+## Contributors
+-[your Name](https://github.com)
+
+## Licence
+this project is licence
+
 
 
 
