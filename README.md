@@ -16,5 +16,11 @@
 ![github badge]()
 ![GIF](https://2.bp.blogspot.com/-UYIl6xmfxrw/UVkP0cp9GbI/AAAAAAAADmI/tMGfluQd8qc/s1600/bola+dunia.gif)
 
+###Table
+|Feature|Description|
+|-----------|----------|
+|speed|Fast|
+|UI|design|
+
 
 ![image alt](https://github.com/leonorspain15/leonorspain/blob/main/leo/image/leo.jpg?raw=true)
