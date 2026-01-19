@@ -26,4 +26,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50">
 </p>
 
+# 😊windows + dot.
+## 📌Description
+
+A short description about the project.
+## 🚀Features
+-✅feature 1
+
+-✅feature 2
+
+-✅feature 3
+
 ![image alt](https://github.com/leonorspain15/leonorspain/blob/main/leo/image/leo.jpg?raw=true)
